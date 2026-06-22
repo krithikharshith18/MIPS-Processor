@@ -136,9 +136,4 @@ MIPS_Processor/
 
 ```
 
-## Author
 
-**Krithik Harshith**  
-BITS Pilani Goa Campus
-
-```
