@@ -136,7 +136,7 @@ MIPS_Processor/
 
 ```
 
-### Author
+## Author
 
 **Krithik Harshith**  
 BITS Pilani Goa Campus
