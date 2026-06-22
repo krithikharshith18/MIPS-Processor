@@ -133,7 +133,3 @@ MIPS_Processor/
 * Expanded MIPS ISA support
 * Performance benchmarking
 * FPGA hardware validation
-
-```
-
-
