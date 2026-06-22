@@ -136,8 +136,6 @@ MIPS_Processor/
 
 ```
 
----
-
 ### Author
 
 **Krithik Harshith**  
